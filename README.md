@@ -12,6 +12,9 @@ Project on USA Biking trends
 ### Files used
 Data files on Washington, Chicago and New York City
 
+### Programming Language used
+Python
+
 ### Credits
 Udacity
 
