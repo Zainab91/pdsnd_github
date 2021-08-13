@@ -15,6 +15,9 @@ Data files on Washington, Chicago and New York City
 ### Programming Language used
 Python
 
+### Method of Analysis
+Statistical
+
 ### Credits
 Udacity
 
